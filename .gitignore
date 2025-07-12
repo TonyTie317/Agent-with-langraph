@@ -2,3 +2,4 @@ venv/langgraph/
 langgraph/
 
 .env.env
+.env
